@@ -21,8 +21,8 @@
         2. link 1.1.2
 1. link 2
 
-https://pstu.ru
-
 <https://pstu.ru>
 
 [world](https://pstu.ru "world")
+
+![what?](https://cs16.pikabu.ru/s/games_showcase/2025/07/04/17/wfqsjw2q_lg.png "what")
