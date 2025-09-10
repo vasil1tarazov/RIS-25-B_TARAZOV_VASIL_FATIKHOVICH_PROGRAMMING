@@ -13,4 +13,4 @@
 2. The second number
 
 - [x] What is this?
-- [] I can`t understand
+- [ ] I can`t understand
