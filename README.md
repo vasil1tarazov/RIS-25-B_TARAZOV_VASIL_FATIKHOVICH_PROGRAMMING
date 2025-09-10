@@ -22,5 +22,7 @@
 1. link 2
 
 https://pstu.ru
+
 <https://pstu.ru>
-[world](https: "world" https://pstu.ru)
+
+[world](https://pstu.ru "world")
