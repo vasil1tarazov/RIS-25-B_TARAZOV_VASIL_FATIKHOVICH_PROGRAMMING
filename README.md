@@ -26,3 +26,7 @@
 [world](https://pstu.ru "world")
 
 ![what?](https://cs16.pikabu.ru/s/games_showcase/2025/07/04/17/wfqsjw2q_lg.png "what")
+
+```python
+print('hello world')
+```
