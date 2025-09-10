@@ -1,1 +1,1 @@
-# RIS-25-B_TARAZOV_VASIL_FATIKHOVICH_PROGRAMMING
+Всем привет, меня зовут Василь, сегодня много пар, эх
