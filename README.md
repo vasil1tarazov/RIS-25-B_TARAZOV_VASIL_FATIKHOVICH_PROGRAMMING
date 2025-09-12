@@ -4,4 +4,6 @@
 |№ лаб. работы | Название | Статус |
 |-|----|---|
 
-| Header1 | Header2 | | ------- | ------- | | cell1 | cell2 | | cell3 | cell4 |  
+| Header1 | Header2 |
+| ------- | ------- | 
+| cell1 | cell2 | | cell3 | cell4 |  
